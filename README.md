@@ -5,7 +5,7 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 <br> 
 
-<img align="center" src="https://github-readme-stats-delta-brown-10.vercel.app/api/top-langs/?username=w3tsa&layout=compact&theme=radical" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=w3tsa&hide=stars&count_private=true&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats-delta-brown-10.vercel.app/api/top-langs/?username=w3tsa&layout=compact&theme=radical" /> <img align="center" src="https://github-readme-stats-delta-brown-10.vercel.app/api?username=w3tsa&hide=stars&count_private=true&show_icons=true&theme=radical" />
 
 
 
