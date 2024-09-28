@@ -1,4 +1,4 @@
-<> (<img src="./assets/gitHub.png" width="100%">)
+<!---(<img src="./assets/gitHub.png" width="100%">)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a developer that loves simplifying things. I love breaking down complex problems into simple, easy to understand solutions. I Currently live in Indiana, USA as a software Engineer. In my spare time, I create YT videos on software development and mentor new developers.
@@ -9,4 +9,4 @@ I'm a developer that loves simplifying things. I love breaking down complex prob
 
 
 
-
+-->
